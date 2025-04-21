@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain_community
+langchain-core
+langchain-groq
+groq
+python-dotenv
+pymupdf 
+pytesseract 
+pdf2image
+poppler-utils
+langdetect
+edge_tts
+PyMuPDF
+python-multipart
